@@ -1,3 +1,4 @@
 # hello-world
-First reposition /n
-Hello! My name is Robert and i'm from Warsaw, Poland.
+First reposition
+
+Hello! My name is Robert and i'm from Warsaw, Poland. bye
